@@ -1,5 +1,10 @@
 # Toxins in Skincare
 
+Class: Personal
+Materials: https://open.spotify.com/track/4tTihOTrCBZrbnf4pQuTq7?si=EUzPiatXRvaLWq9pPVcbwQ
+Reviewed: No
+Type: Reading
+
 # What are Toxins in Skincare/Makeup
 
 endocrine disruptors, carcinogens, mutagens (causing genetic mutations), estrogen mimickers, and /or allergens are harmful to the environment and aquatic life.
