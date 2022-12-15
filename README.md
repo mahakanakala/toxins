@@ -46,20 +46,12 @@ This data science project uses a skincare dataset to find trends in the use of t
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
 
-
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
-
 ---
 
 # Cookiecutter Modern Data Science (file structure manager)
 [Cookiecutter] template for starting a Data Science project with modern, fast Python tools.
 
 ## Features
-
 * [Pipenv] for managing packages and virtualenvs in a modern way.
 * [Prefect] for modern pipelines and data workflow.
 * [Weights and Biases] for experiment tracking.
