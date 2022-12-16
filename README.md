@@ -4,7 +4,7 @@
 
 ---
 ## Project Intro/Objective
-Analysis of a Skincare dataset from Kaggle & ML model of a recommendation machine.
+Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine.
 
 ### Methods Used
 * Inferential Statistics
@@ -21,30 +21,27 @@ Analysis of a Skincare dataset from Kaggle & ML model of a recommendation machin
 ## Project Description
 <!-- (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here) -->
 This data science project uses a skincare dataset to find trends in the use of toxins in skincare products and builds a machine learning algorithm to recommend skincare products based on various factors. The algorithm takes into account the user's skin type, concerns, and allergies, as well as the ingredients in each product.
-&rarr; **Research Notes:** [Notion](https://www.notion.so/a-wilde-raven/Toxins-in-Skincare-eae6b365416f4bc490bd570f26a6fa8c)
-
+&rarr; **Research Notes:** [Notion](https://a-wilde-raven.notion.site/ddeae4d63ea5432e8ea2f20f23024dcd?v=fb6ac794166e44a9ae3fc9b8150efd3e)
 
 ## Needs of this project
 
-- Reference on [Github Issues](https://github.com/mahakanakala/toxins-in-skincare/issues)
+- Reference/help on [Github Issues](https://github.com/mahakanakala/toxins-in-skincare/issues)
 - Explore more Ml models
 
 ## Getting Started
-
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/data/raw)) within this repo.
-    
 3. Data processing/transformation scripts are being kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/data/processed) within this repo.
 4. Data visuals are kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/reports/figures) within this repo.
 
 *If the project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
 
-5. Follow setup [instructions](Link to file)
+<!-- 5. Follow setup [instructions](Link to file) -->
 
-## Featured Notebooks/Analysis/Deliverables
+<!-- ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [Blog Post](link) -->
 
 ---
 
