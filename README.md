@@ -21,7 +21,7 @@ Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetic
 ## Project Description
 <!-- (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here) -->
 This data science project uses a skincare dataset to find trends in the use of toxins in skincare products and builds a machine learning algorithm to recommend skincare products based on various factors. The algorithm takes into account the user's skin type, concerns, and allergies, as well as the ingredients in each product.
-&rarr; **Research Notes:** [Notion](https://a-wilde-raven.notion.site/ddeae4d63ea5432e8ea2f20f23024dcd?v=fb6ac794166e44a9ae3fc9b8150efd3e)
+&rarr; **Research Notes:** [Notion](https://almondine-bedbug-4d3.notion.site/Toxins-in-Skincare-46051e770c60413f97ed509ea408dec6)
 
 ## Needs of this project
 
