@@ -119,7 +119,8 @@ how to find the most reputed brands?
         - seaborn
         - pandas
         - numpy
-        - 
+        - sklearn
+        - sci-kit
 - this is part of the skincare vault or (cabinet)
 - other skincare scraping projects include gathering data from The Ordinary
 
@@ -138,12 +139,12 @@ how to find the most reputed brands?
     3. Oily
     4. Combination
     5. Sensitive
-3. Price Point (range: 3-370)
-    1. $3-$20 I am cheap
-    2. $20-$50 I can spend a little
-    3. $50-$100 I can splurge a little
-    4. $100-$200 I can splurge a lot
-    5. $200-$370 I wanna break my bank
+3. Price Point (range: $3-370)
+    1. $3-20 I am cheap
+    2. $20-50 I can spend a little
+    3. $50-100 I can splurge a little
+    4. $100-200 I can splurge a lot
+    5. $200-370 I wanna break my bank
 4. Default the rank is greater than 4 stars
 
 ```python
