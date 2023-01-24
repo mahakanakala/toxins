@@ -8,11 +8,12 @@ def skin_type_quiz():
       "sensitive": 0,
       "normal": 0
   }
-
+# add images to each option 
+# add a range of values for answers (slider)
   print("Answer the following questions to determine your skin type:")
 
   options = [
-      ("Do you have oily skin? (mark all that apply)", "oily"),
+      ("Let's see what type of skin you have (mark all that apply)"),
       ("Do you have dry skin? (mark all that apply)", "dry"),
       ("Do you have sensitive skin? (mark all that apply)", "sensitive"),
       ("Do you have combination skin? (mark all that apply)", "combination")
