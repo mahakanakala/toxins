@@ -1,0 +1,896 @@
+Unnamed: 0,Toxin,Product,Toxicity
+3,Oxybenzone,Camera Ready CC Cream Broad Spectrum SPF 30 Dark Spot Correcting,Low
+4,Oxybenzone,Lingerie de Peau BB Cream,Low
+5,Oxybenzone,Exfoliating Scrub,Low
+6,Oxybenzone,Hydra Life BB Creme Broad Spectrum SPF 30,Low
+7,Oxybenzone,The Broad Spectrum SPF 50 UV Protecting Fluid,Low
+8,Oxybenzone,Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,Low
+9,Oxybenzone,Broad Spectrum SPF 50 Sunscreen Face Cream,Low
+10,Oxybenzone,DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50,Low
+11,Oxybenzone,DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35,Low
+12,Oxybenzone,Protect Ultra Sheer Weightless Sunscreen Broad Spectrum SPF 50+ UVA/UVB,Low
+13,Oxybenzone,Sun Lotion 30 SPF,Low
+15,Ethanolamine,Radiance Awakening Mask Intense,Low
+19,Silane,Ultra Facial Cream,Low
+20,Silane,The True Cream Moisturizing Bomb,Low
+21,Silane,Water Bank Moisture Cream,Low
+22,Silane,Dramatically Different Moisturizing Gel,Low
+23,Silane,Revitalizing Supreme Global Anti-Aging Crème,Low
+24,Silane,Renewed Hope in A Jar Refreshing & Refining Moisturizer,Low
+25,Silane,Dramatically Different Hydrating Jelly,Low
+26,Silane,Drink of H2O Hydrating Boost Moisturizer Rainforest of the Sea™,Low
+27,Silane,Limited Edition Dramatically Different™ Moisturizing Gel,Low
+28,Silane,Cooling Water,Low
+29,Silane,DREAMDUO™ Overnight Transforming Treatment,Low
+30,Silane,Essential Power Skin Toner for Normal to Dry Skin,Low
+31,Silane,Bergamot Herbal Extract Toner,Low
+32,Silane,A Glowing Regimen Trial Set,Low
+33,Silane,FRXXXTION Stick Exfoliating Cleanser,Low
+34,Silane,Fresh Pressed 7-day System with Pure Vitamin C,Low
+35,Silane,Advanced Night Repair Synchronized Recovery Complex II,Low
+36,Silane,The Treatment Lotion,Low
+37,Silane,Skin Love Glow Elixir,Low
+38,Silane,needles no more™,Low
+39,Silane,Fresh Pressed Daily Booster with Pure Vitamin C 10%,Low
+40,Silane,Watermelon Brightening Serum,Low
+41,Silane,MOISTURE BOUND Rejuvenating Serum,Low
+42,Silane,Repairwear Laser Focus,Low
+43,Silane,needles no more® 3-D filler mask,Low
+44,Silane,Perfectionist Pro Rapid Firm + Lift Treatment,Low
+45,Silane,Future Solution LX Intensive Firming Contour Serum,Low
+46,Silane,Advanced Night Repair Concentrated Recovery PowerFoil Mask,Low
+47,Silane,The Brilliance Brightening Mask,Low
+48,Silane,Nutritious Vitality8™ Night Creme/Mask,Low
+49,Silane,Treatment Lotion Hydrating Mask,Low
+50,Silane,Advanced Night Repair Concentrated Recovery Eye Mask,Low
+51,Silane,Plantscription™ Powerful Lifting Overnight Mask,Low
+52,Silane,Water Pocket Sheet Mask Sleeping Mask (Replenishing),Low
+53,Silane,Flower Fusion™ Lavender Soothing Sheet Mask,Low
+54,Silane,Flower Fusion™ Rose Hydrating Sheet Mask,Low
+55,Silane,Flower Fusion™ Raspberry Refreshing Sheet Mask,Low
+56,Silane,Flower Fusion™ Violet Nourishing Sheet Mask,Low
+57,Silane,Flower Fusion™ Orange Radiance-Boosting Sheet Mask,Low
+58,Silane,Advanced Night Repair Eye Concentrate Matrix,Low
+59,Silane,Advanced Night Repair Eye Serum Synchronized Complex II,Low
+60,Silane,Eye Doctor™ Moisture Care For Skin Around Eyes,Low
+61,Silane,Intensive Vitalizing Eye Essence,Low
+62,Silane,Goat Milk De-Puffing Eye Balm,Low
+63,Silane,Super-Cool De-Puffing Eye Balm,Low
+64,Silane,Renewed Hope In A Jar Eye,Low
+65,Silane,FIRMx™ 360 Eye Renewal,Low
+66,Silane,Time In A Bottle For Eyes 100% In-Control,Low
+67,Silane,Renewed Hope In A Jar SPF 30,Low
+69,Silane,Essential-C Eye Cream SPF 15 PA++,Low
+70,Silane,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,Low
+71,Silane,ELEVATE Firming & Lifting Contouring Eye Cream,Low
+2,Parfum,Benefiance WrinkleResist24 Night Cream,Moderate
+3,Parfum,Goodnight Glow Retin-ALT Sleeping Crème,Moderate
+4,Parfum,Beauty Elixir,Moderate
+5,Parfum,The Silk Cream,Moderate
+6,Parfum,Vinosource Moisturizing Sorbet,Moderate
+7,Parfum,Luminous Dewy Skin Night Concentrate,Moderate
+8,Parfum,Seaberry Moisturizing Face Oil,Moderate
+9,Parfum,Renewed Hope in A Jar Refreshing & Refining Moisturizer,Moderate
+10,Parfum,Cold Plasma Sub-D Firming Neck Treatment,Moderate
+11,Parfum,Nurture Me™ Moisturizing Crème,Moderate
+12,Parfum,Invigorating Night Transformation™ Gel,Moderate
+13,Parfum,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,Moderate
+14,Parfum,Evercalm™ Overnight Recovery Balm,Moderate
+15,Parfum,Benefiance WrinkleResist24 Night Emulsion,Moderate
+16,Parfum,Resveratrol Lift Night Infusion Cream,Moderate
+17,Parfum,Ibuki Refining Moisturizer Enriched,Moderate
+18,Parfum,Immortelle Divine Cream,Moderate
+19,Parfum,Premier Cru Cream,Moderate
+20,Parfum,Bio-Performance Glow Revival Cream,Moderate
+21,Parfum,Truth Revealed™ Brightening Broad Spectrum SPF 15 Moisturizer,Moderate
+22,Parfum,Renewed Hope in A Jar Overnight Recharging & Refining Moisturizer,Moderate
+23,Parfum,Vinosource Intense Moisture Rescue Cream,Moderate
+24,Parfum,Wrinkle Warrior™ 2-in-1 Plumping Moisturizer + Serum,Moderate
+25,Parfum,Hyaluronic Marine Oil-Free Moisture Cushion,Moderate
+26,Parfum,Ibuki Beauty Sleeping Mask,Moderate
+27,Parfum,Premier Cru Rich Cream,Moderate
+28,Parfum,POWER Recharging Night Pressed Serum,Moderate
+29,Parfum,Super Restorative Night Age Spot Correcting Replenishing Cream,Moderate
+30,Parfum,Rose Deep Hydration Facial Toner,Moderate
+31,Parfum,Sugar Face Polish Exfoliator,Moderate
+32,Parfum,Transforming Walnut Scrub,Moderate
+33,Parfum,microdermabrasion age defying exfoliator,Moderate
+34,Parfum,Greek Yoghurt Foaming Cream Cleanser,Moderate
+35,Parfum,Benefiance Extra Creamy Cleansing Foam,Moderate
+36,Parfum,Gentle Foaming Cleanser with Cottonseed,Moderate
+37,Parfum,Toning Lotion with Camomile,Moderate
+38,Parfum,Flawless Skin Face Polish,Moderate
+39,Parfum,Rose Deep Hydration Toner Mini,Moderate
+40,Parfum,Truth™ On the Glow Cleansing Cloths,Moderate
+41,Parfum,One-Step Gentle Exfoliating Cleanser with Orange Extract,Moderate
+42,Parfum,Face the Truth™ Gel Cleanser,Moderate
+43,Parfum,White Lucent Luminizing Infuser,Moderate
+44,Parfum,Radiance Cleansing Foam,Moderate
+45,Parfum,Multi-Miracle Glow Cleansing Balm,Moderate
+46,Parfum,Future Solution LX Extra Rich Cleansing Foam,Moderate
+47,Parfum,Acne Clearing Wash,Moderate
+48,Parfum,A Glowing Regimen Trial Set,Moderate
+49,Parfum,No:Rinse Intensive Pore Minimizing Toner,Moderate
+50,Parfum,Pore Reform™ Skin Smoothing Polish,Moderate
+51,Parfum,Eau Ginseng,Moderate
+52,Parfum,Solid Cleansing Oil,Moderate
+53,Parfum,PRE:EMPT SERIES™ Exfoliating Pore Refiner,Moderate
+54,Parfum,GENIUS Ultimate Anti-Aging Melting Cleanser,Moderate
+55,Parfum,So Nurturing™ Cleansing Cloths,Moderate
+56,Parfum,Wonderfeel™ Double Cleanser,Moderate
+57,Parfum,Rosa Centifolia™ No.1 Purity Cleansing Balm,Moderate
+58,Parfum,Pore Refining Detox Double Cleanse,Moderate
+59,Parfum,Micro Polish Cleanser,Moderate
+60,Parfum,Alpha Beta® Extra Strength Daily Peel,Moderate
+61,Parfum,Vinoperfect Radiance Serum,Moderate
+62,Parfum,Double Serum Complete Age Control Concentrate,Moderate
+63,Parfum,GENIUS Liquid Collagen,Moderate
+64,Parfum,Vinosource S.O.S Thirst Quenching Serum,Moderate
+65,Parfum,Glow Cycle Retin-ALT Power Serum,Moderate
+66,Parfum,White Lucent MicroTargeting Spot Corrector,Moderate
+67,Parfum,Black Tea Age-Delay Firming Serum,Moderate
+68,Parfum,Minus Serum,Moderate
+69,Parfum,Vine[Activ] Vitamin C Anti-Wrinkle Serum,Moderate
+70,Parfum,Resveratrol Lift Firming Serum,Moderate
+71,Parfum,Shaping Facial Lift Total V Contouring Serum,Moderate
+72,Parfum,White Lucent Luminizing Surge,Moderate
+73,Parfum,Power Peel™ Transforming Facial System,Moderate
+74,Parfum,"Black Pine 3D Sculpting, Firming & Lifting Face Serum",Moderate
+75,Parfum,PRE:EMPT SERIES™ Skin Perfecting Serum,Moderate
+76,Parfum,Breakout Fighters,Moderate
+77,Parfum,Bio Retinoid Anti-Wrinkle Concentrate Oil,Moderate
+78,Parfum,Lotus Face Treatment Oil,Moderate
+79,Parfum,Vitamin C Ester Brightening Amine Face Lift,Moderate
+80,Parfum,Future Solution LX Intensive Firming Contour Serum,Moderate
+81,Parfum,Concentrated Reconstructing Serum,Moderate
+82,Parfum,Mission Perfection Serum,Moderate
+83,Parfum,Silver Skin Savior Salicylic/Glycolic Acid Treatment,Moderate
+84,Parfum,Lip Sleeping Mask,Moderate
+85,Parfum,Rose Face Mask,Moderate
+86,Parfum,Black Tea Instant Perfecting Mask,Moderate
+87,Parfum,Face Mask,Moderate
+88,Parfum,Australian Pink Clay Porefining Face Mask,Moderate
+89,Parfum,Vitamin C Glow Face Mask,Moderate
+90,Parfum,Face Mask - Pearl - Brightening,Moderate
+91,Parfum,Black Tea Instant Perfecting Mask Mini,Moderate
+92,Parfum,Face Mask - Green Tea - Mattifying,Moderate
+93,Parfum,Crazy for Clay!,Moderate
+94,Parfum,Face Mask - Rose - Moisturizing,Moderate
+95,Parfum,Face Mask - Aloe Vera - Replenishing,Moderate
+96,Parfum,Face Mask - Pineapple - Pore Perfecting,Moderate
+97,Parfum,Face Mask - Coconut - Nourishing,Moderate
+98,Parfum,Pomegranate AHA & Enzymes Resurfacing Mask,Moderate
+99,Parfum,Moisturizing Mask,Moderate
+100,Parfum,Face Mask - Algae - Detoxifying,Moderate
+101,Parfum,Face Mask - Grape - Anti-pollution,Moderate
+102,Parfum,Goddess Clay Mask,Moderate
+103,Parfum,Hydrating Lip Mask,Moderate
+104,Parfum,V-Facial Intensive Wrap,Moderate
+105,Parfum,Midnight Radiance Mask,Moderate
+106,Parfum,Hygge HydraClay™ Detox Mask,Moderate
+107,Parfum,Bamboo Waterlock Mask,Moderate
+108,Parfum,InstaMatte™ Oil-Control Mask,Moderate
+109,Parfum,Wrinkle Warrior® Pink Plumping Mask,Moderate
+110,Parfum,Egg Cream Mask Pore Tightening,Moderate
+111,Parfum,SPLASH Absolute Hydration Replenishing Sleeping Pack,Moderate
+112,Parfum,Benefiance WrinkleResist24 Intensive Eye Contour Cream,Moderate
+113,Parfum,Banana Bright Eye Crème,Moderate
+114,Parfum,R.N.A. POWER Anti-Aging Eye Cream,Moderate
+115,Parfum,Super Restorative Total Eye Concentrate,Moderate
+116,Parfum,Ultimune Eye Power Infusing Eye Concentrate,Moderate
+117,Parfum,Future Solution LX Eye and Lip Contour Regenerating Cream,Moderate
+118,Parfum,Bio-Performance LiftDynamic Eye Treatment,Moderate
+119,Parfum,"Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum",Moderate
+120,Parfum,Crème Ancienne Supreme Eye Serum,Moderate
+121,Parfum,Bio Performance Glow Revival Eye Treatment,Moderate
+122,Parfum,"Black Pine 3D Sculpting, Firming & Lifting Eye Cream",Moderate
+123,Parfum,Enhancing Eye Lift Serum,Moderate
+124,Parfum,Mission Perfection Eye Broad Spectrum SPF 15,Moderate
+125,Parfum,Multi-Active Day Cream SPF 20 - All Skin Types,Moderate
+126,Parfum,CC Red Correct Automatic Perfector Broad Spectrum SPF 25,Moderate
+127,Parfum,Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30,Moderate
+128,Parfum,Sugar Sport Treatment Sunscreen SPF 30,Moderate
+129,Parfum,After Sun Greek Yoghurt Cooling Gel for Face and Body,Moderate
+130,Parfum,Daily Deflector™ Waterlight Broad Spectrum SPF 50+ PA+++ Anti-Aging Sunscreen,Moderate
+131,Parfum,Pro Light Self Tan Bronzing Mist,Moderate
+133,Fragrance,Crème de la Mer,Moderate
+134,Fragrance,The Moisturizing Soft Cream,Moderate
+135,Fragrance,The Water Cream,Moderate
+136,Fragrance,Little Miss Miracle Limited-Edition Crème de la Mer,Moderate
+137,Fragrance,The True Cream Aqua Bomb,Moderate
+138,Fragrance,Rose Deep Hydration Moisturizer,Moderate
+139,Fragrance,R.N.A. POWER Face Cream,Moderate
+140,Fragrance,Crème de la Mer Mini,Moderate
+141,Fragrance,Bio-Performance Advanced Super Revitalizing Cream,Moderate
+142,Fragrance,Black Tea Firming Overnight Mask,Moderate
+143,Fragrance,The True Cream Moisturizing Bomb,Moderate
+144,Fragrance,GenOptics Aura Essence Serum,Moderate
+145,Fragrance,Black Tea Kombucha Antioxidant Essence,Moderate
+146,Fragrance,Pure One Step Camellia Cleansing Oil,Moderate
+147,Fragrance,Water Sleeping Mask,Moderate
+148,Fragrance,Water Bank Moisture Cream,Moderate
+149,Fragrance,Luminous Dewy Skin Mist,Moderate
+150,Fragrance,Benefiance WrinkleResist24 Night Cream,Moderate
+151,Fragrance,Goodnight Glow Retin-ALT Sleeping Crème,Moderate
+152,Fragrance,Watermelon Glow Sleeping Mask,Moderate
+153,Fragrance,Radiance Drops - Rainforest of the Sea™ Collection,Moderate
+154,Fragrance,Beauty Elixir,Moderate
+155,Fragrance,The Renewal Oil,Moderate
+156,Fragrance,The Silk Cream,Moderate
+157,Fragrance,C-Rush™ Brightening Gel Crème,Moderate
+158,Fragrance,Color Control Cushion Compact Broad Spectrum SPF 50+,Moderate
+159,Fragrance,Vinosource Moisturizing Sorbet,Moderate
+160,Fragrance,CC Crème High Definition Radiance Face Cream Skin Perfector,Moderate
+161,Fragrance,C.E.O. C + E antiOXIDANT Protect + Repair Moisturizer,Moderate
+162,Fragrance,Luminous Dewy Skin Night Concentrate,Moderate
+163,Fragrance,GLOWSTARTER™ Mega Illuminating Moisturizer,Moderate
+164,Fragrance,Revitalizing Supreme Global Anti-Aging Crème,Moderate
+165,Fragrance,Seaberry Moisturizing Face Oil,Moderate
+166,Fragrance,BB Cushion Hydra Radiance SPF 50,Moderate
+167,Fragrance,FUTURE RESPONSE Age Defense Creme,Moderate
+168,Fragrance,THIRSTYMUD™ Hydrating Treatment,Moderate
+169,Fragrance,Black Tea Corset Cream Firming Moisturizer,Moderate
+170,Fragrance,Secret Sauce Clinically Advanced Miraculous Anti-Aging Moisturizer,Moderate
+171,Fragrance,Benefiance WrinkleResist24 Day Cream Broad Spectrum SPF 18,Moderate
+172,Fragrance,Water Bank Essence,Moderate
+173,Fragrance,Watermelon Pink Juice Moisturizer,Moderate
+174,Fragrance,Renewed Hope in A Jar Refreshing & Refining Moisturizer,Moderate
+175,Fragrance,Cold Plasma Sub-D Firming Neck Treatment,Moderate
+176,Fragrance,Rénergie Lift Multi-Action Night,Moderate
+177,Fragrance,GENIUS Ultimate Anti-Aging Cream,Moderate
+178,Fragrance,Nurture Me™ Moisturizing Crème,Moderate
+179,Fragrance,Invigorating Night Transformation™ Gel,Moderate
+180,Fragrance,Aqua Bomb Sleeping Mask,Moderate
+181,Fragrance,Superfood Air-Whip Hyaluronic Acid Moisture Cream,Moderate
+182,Fragrance,Bio-Performance Advanced Super Restoring Cream,Moderate
+183,Fragrance,Benefiance WrinkleResist24 Day Emulsion Broad Spectrum SPF 18,Moderate
+184,Fragrance,Vitamin C Glow Moisturizer,Moderate
+185,Fragrance,Wild Rose + Vitamin C Advanced Brightening Sleeping Facial,Moderate
+186,Fragrance,Vitamin Nectar Antioxidant Face Mist,Moderate
+187,Fragrance,Peat Miracle Revital Cream,Moderate
+188,Fragrance,Superberry Hydrate + Glow Oil,Moderate
+189,Fragrance,Photo Finish Primer Water,Moderate
+190,Fragrance,Retinol Youth Renewal Night Cream,Moderate
+191,Fragrance,Water Bank Hydrating Gel,Moderate
+192,Fragrance,Evercalm™ Overnight Recovery Balm,Moderate
+193,Fragrance,Counter Balance™ Oil Control Hydrator,Moderate
+194,Fragrance,The Moisturizing Soft Lotion,Moderate
+195,Fragrance,Benefiance WrinkleResist24 Night Emulsion,Moderate
+196,Fragrance,Resveratrol Lift Night Infusion Cream,Moderate
+197,Fragrance,Essential-C Day Moisture Broad Spectrum SPF 30 PA+++,Moderate
+198,Fragrance,Future Solution LX Total Regenerating Cream,Moderate
+199,Fragrance,Multi-Active Night Cream - Normal to Combination Skin,Moderate
+200,Fragrance,Ibuki Refining Moisturizer,Moderate
+201,Fragrance,Ibuki Refining Moisturizer Enriched,Moderate
+202,Fragrance,The Renewal Oil Mini,Moderate
+203,Fragrance,Tech Neck Prevention Kit,Moderate
+204,Fragrance,The Method: Nourish,Moderate
+205,Fragrance,BIENFAIT MULTI-VITAL NIGHT - High Potency Night Moisturizing Cream VITA-NUTRI 8™,Moderate
+206,Fragrance,Gold Camellia Beauty Oil,Moderate
+207,Fragrance,Immortelle Divine Cream,Moderate
+208,Fragrance,Advanced Time Zone Night Age Reversing Line/Wrinkle Crème,Moderate
+209,Fragrance,Overnight Restorative Cream,Moderate
+210,Fragrance,Premier Cru Cream,Moderate
+211,Fragrance,Resveratrol Lift Face Lifting Soft Cream,Moderate
+212,Fragrance,Bio-Performance Glow Revival Cream,Moderate
+213,Fragrance,Sleeping Mask,Moderate
+214,Fragrance,Hungarian Water Essence,Moderate
+215,Fragrance,"Resilience Lift Firming/Sculpting Face and Neck Creme Broad Spectrum SPF 15, Normal/Combination Skin",Moderate
+216,Fragrance,Truth Revealed™ Brightening Broad Spectrum SPF 15 Moisturizer,Moderate
+217,Fragrance,Cellumination Cream EX,Moderate
+218,Fragrance,BIENFAIT MULTI-VITAL - SPF 30 CREAM - High Potency Vitamin Enriched Daily Moisturizing Cream,Moderate
+219,Fragrance,Extra-Firming Neck Anti-Wrinkle Rejuvenating Cream,Moderate
+220,Fragrance,MOISTURE BOUND Rejuvenating Crème,Moderate
+221,Fragrance,BB Crème au Ginseng,Moderate
+222,Fragrance,SUBLIME DEFENSE Ultra Lightweight UV Defense Fluid SPF 50,Moderate
+223,Fragrance,Renewed Hope in A Jar Overnight Recharging & Refining Moisturizer,Moderate
+224,Fragrance,Anti-Aging Moisturizer SPF 30 PA+++,Moderate
+225,Fragrance,Ultimate Miracle Worker Multi-Rejuvenating Cream SPF 30,Moderate
+226,Fragrance,Treatment Toner,Moderate
+227,Fragrance,Bio-Performance LiftDynamic Cream,Moderate
+228,Fragrance,Vinosource Intense Moisture Rescue Cream,Moderate
+229,Fragrance,Wrinkle Warrior™ 2-in-1 Plumping Moisturizer + Serum,Moderate
+230,Fragrance,Hyaluronic Marine Oil-Free Moisture Cushion,Moderate
+231,Fragrance,Nutrient-Charged Water Gel,Moderate
+232,Fragrance,MOISTURE BOUND Refreshing Hydra-Gel Oil-Free,Moderate
+233,Fragrance,Instant Moisturizer + Cream,Moderate
+234,Fragrance,Water Bank Dual Layer Face Oil,Moderate
+235,Fragrance,Ibuki Beauty Sleeping Mask,Moderate
+236,Fragrance,VOLCASMIC™ Matte Glow Moisturizer,Moderate
+237,Fragrance,Rénergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For All Skin Types,Moderate
+238,Fragrance,High Potency Classics: Face Finishing & Firming Moisturizer,Moderate
+239,Fragrance,Ibuki Protective Moisturizer Broad Spectrum SPF 18,Moderate
+240,Fragrance,Visionnaire Advanced Multi-Correcting Cream,Moderate
+241,Fragrance,Premier Cru Rich Cream,Moderate
+242,Fragrance,Hydra Zen Anti-Stress Gel Moisturizer,Moderate
+243,Fragrance,Intensive Instant Moisturizer + Cream,Moderate
+244,Fragrance,Facial Treatment Oil,Moderate
+245,Fragrance,Maracuja Neck Treatment,Moderate
+246,Fragrance,DREAMDUO™ Overnight Transforming Treatment,Moderate
+247,Fragrance,POWER Recharging Night Pressed Serum,Moderate
+248,Fragrance,Firming & Lifting Neck Cream,Moderate
+249,Fragrance,White Lucent All Day Brightener Broad Spectrum SPF 23 Moisturizer,Moderate
+250,Fragrance,The Moisturizing Matte Lotion,Moderate
+251,Fragrance,Super Restorative Night Age Spot Correcting Replenishing Cream,Moderate
+252,Fragrance,Face Hero,Moderate
+253,Fragrance,Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey,Moderate
+254,Fragrance,Rose Deep Hydration Facial Toner,Moderate
+255,Fragrance,Bi-Facil Double-Action Eye Makeup Remover,Moderate
+256,Fragrance,Cleansing & Exfoliating Wipes,Moderate
+257,Fragrance,The Cleansing Foam,Moderate
+258,Fragrance,Treatment Enzyme Peel,Moderate
+259,Fragrance,Sugar Face Polish Exfoliator,Moderate
+260,Fragrance,Superfood Antioxidant Cleanser,Moderate
+261,Fragrance,The Clean Truth™ Foaming Cleanser,Moderate
+262,Fragrance,Transforming Walnut Scrub,Moderate
+263,Fragrance,Calendula Deep Clean Foaming Face Wash,Moderate
+264,Fragrance,microdermabrasion age defying exfoliator,Moderate
+265,Fragrance,Instant Foaming Cleanser,Moderate
+266,Fragrance,Greek Yoghurt Foaming Cream Cleanser,Moderate
+267,Fragrance,Moisturizing Toner,Moderate
+268,Fragrance,Benefiance Extra Creamy Cleansing Foam,Moderate
+269,Fragrance,YOUTHMUD™ Tinglexfoliate Treatment,Moderate
+270,Fragrance,Anti-Aging Cleansing Gel,Moderate
+271,Fragrance,Clarifying Cleanser,Moderate
+272,Fragrance,The Tonic,Moderate
+273,Fragrance,EradiKate® Daily Cleanser Acne Treatment,Moderate
+274,Fragrance,Bye Bye Makeup™ 3-in-1 Makeup Melting Cleansing Balm,Moderate
+275,Fragrance,Treatment Cleansing Foam,Moderate
+276,Fragrance,Nutritious Radiant Vitality Energy Lotion,Moderate
+277,Fragrance,Multi Cleanser,Moderate
+278,Fragrance,Gentle Foaming Cleanser with Cottonseed,Moderate
+279,Fragrance,Ibuki Gentle Cleanser,Moderate
+280,Fragrance,Micellar Cleansing Water,Moderate
+281,Fragrance,Blueberry Bounce Gentle Cleanser,Moderate
+282,Fragrance,Toning Lotion with Camomile,Moderate
+283,Fragrance,Flawless Skin Face Polish,Moderate
+284,Fragrance,Green Tea Real Fresh Foam Cleanser,Moderate
+285,Fragrance,FLASHMUD™ Brightening Treatment,Moderate
+286,Fragrance,Time Release Acne Cleanser,Moderate
+287,Fragrance,Rose Deep Hydration Toner Mini,Moderate
+288,Fragrance,Witch Hazel Herbal Extract Toner,Moderate
+289,Fragrance,Essential Power Skin Toner for Normal to Dry Skin,Moderate
+290,Fragrance,Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,Moderate
+291,Fragrance,Truth™ On the Glow Cleansing Cloths,Moderate
+292,Fragrance,One-Step Gentle Exfoliating Cleanser with Orange Extract,Moderate
+293,Fragrance,The Cleansing Foam Mini,Moderate
+294,Fragrance,Deep Cleansing Exfoliator,Moderate
+295,Fragrance,SUPERCLEANSE™ Clearing Cream-to-Foam Cleanser,Moderate
+296,Fragrance,Essential-C Cleanser,Moderate
+297,Fragrance,Face the Truth™ Gel Cleanser,Moderate
+298,Fragrance,The Cleansing Gel,Moderate
+299,Fragrance,White Lucent Luminizing Infuser,Moderate
+300,Fragrance,Radiance Cleansing Foam,Moderate
+301,Fragrance,Cleansing & Clarifying Duo,Moderate
+302,Fragrance,Gentle Cleansing Milk,Moderate
+303,Fragrance,Make-Up Removing Cleansing Oil,Moderate
+304,Fragrance,Soy Face Cleansing Milk,Moderate
+305,Fragrance,Moisturizing Foam Cleanser,Moderate
+306,Fragrance,Seaberry Skin Nutrition Cleansing Oil,Moderate
+307,Fragrance,Pureness Deep Cleansing Foam,Moderate
+308,Fragrance,Essential Power Skin Toner for Combination to Oily Skin,Moderate
+309,Fragrance,Shea Cleansing Oil,Moderate
+310,Fragrance,Multi-Miracle Glow Cleansing Balm,Moderate
+311,Fragrance,The Method: Polish Blemish Control,Moderate
+312,Fragrance,Ibuki Softening Concentrate,Moderate
+313,Fragrance,Future Solution LX Extra Rich Cleansing Foam,Moderate
+314,Fragrance,Creamy Cleansing Foam Moist,Moderate
+315,Fragrance,Oil Control Blotting Paper,Moderate
+316,Fragrance,Problem Solution Toner,Moderate
+317,Fragrance,Acne Clearing Wash,Moderate
+318,Fragrance,OIL OBSESSED™ Total Cleansing Oil,Moderate
+319,Fragrance,Bergamot Herbal Extract Toner,Moderate
+320,Fragrance,Essential-C Toner,Moderate
+321,Fragrance,Renewing Cleansing Cream,Moderate
+322,Fragrance,YOUTHCLEANSE™ Daily Exfoliating Cleanser,Moderate
+323,Fragrance,Stay Balanced™ Oil Control Cleansing Cloths,Moderate
+324,Fragrance,A Glowing Regimen Trial Set,Moderate
+325,Fragrance,Wild Rose Exfoliating Cleanser,Moderate
+326,Fragrance,Cleansing Gel Oil Enriched,Moderate
+327,Fragrance,No:Rinse Intensive Pore Minimizing Toner,Moderate
+328,Fragrance,The Cleansing Oil,Moderate
+329,Fragrance,Hydrating Toner,Moderate
+330,Fragrance,Ibuki Purifying Cleanser,Moderate
+331,Fragrance,Pureness Balancing Softener Alcohol-Free,Moderate
+332,Fragrance,Multi-Perfecting Detoxifying Exfoliator,Moderate
+333,Fragrance,Moment of Truth™ 2-in-1 Polishing Sugar Mask,Moderate
+334,Fragrance,Pore Reform™ Skin Smoothing Polish,Moderate
+335,Fragrance,One Step Acne Eliminating Pads,Moderate
+336,Fragrance,Eau Ginseng,Moderate
+337,Fragrance,Solid Cleansing Oil,Moderate
+338,Fragrance,Prep-N-Glow™ Cloths,Moderate
+339,Fragrance,The Method: Cleanse,Moderate
+340,Fragrance,Double Mousse Gentle Cleansing Foam,Moderate
+341,Fragrance,Exfoliating Swipeys,Moderate
+342,Fragrance,PRE:EMPT SERIES™ Exfoliating Pore Refiner,Moderate
+343,Fragrance,POWERMUD™ Dualcleanse Treatment,Moderate
+344,Fragrance,The Cleansing Micellar Water,Moderate
+345,Fragrance,GENIUS Ultimate Anti-Aging Melting Cleanser,Moderate
+346,Fragrance,So Nurturing™ Cleansing Cloths,Moderate
+347,Fragrance,Wonderfeel™ Double Cleanser,Moderate
+348,Fragrance,Extra Rich Cleansing Milk,Moderate
+349,Fragrance,Perfectly Clean Multi-Action Toning Lotion/Refiner,Moderate
+350,Fragrance,Umbrian Clay Pore Purifying Face Exfoliator,Moderate
+351,Fragrance,Rosa Centifolia™ No.1 Purity Cleansing Balm,Moderate
+352,Fragrance,Refreshing Cleanser,Moderate
+353,Fragrance,Pore Refining Detox Double Cleanse,Moderate
+354,Fragrance,Refreshing Gel Cleanser,Moderate
+355,Fragrance,Hydrating Essence Toner,Moderate
+356,Fragrance,Micro Polish Cleanser,Moderate
+357,Fragrance,Truth Serum®,Moderate
+358,Fragrance,Advanced Génifique Youth Activating Serum Duo,Moderate
+359,Fragrance,Alpha Beta® Extra Strength Daily Peel,Moderate
+360,Fragrance,SUPERMUD® Activated Charcoal Treatment,Moderate
+361,Fragrance,Alpha Beta® Universal Daily Peel,Moderate
+362,Fragrance,Truth Serum - Starlight Holiday Edition,Moderate
+363,Fragrance,Vinoperfect Radiance Serum,Moderate
+364,Fragrance,Double Serum Complete Age Control Concentrate,Moderate
+365,Fragrance,The Regenerating Serum,Moderate
+366,Fragrance,GENIUS Liquid Collagen,Moderate
+367,Fragrance,Rapid Age Spot and Pigment Lightening Serum,Moderate
+368,Fragrance,Vinosource S.O.S Thirst Quenching Serum,Moderate
+369,Fragrance,Perfectionist CP+R Wrinkle Lifting/Firming Serum,Moderate
+370,Fragrance,The Revitalizing Hydrating Serum,Moderate
+371,Fragrance,The Treatment Lotion,Moderate
+372,Fragrance,Max Complexion Correction Pads,Moderate
+373,Fragrance,Glow Cycle Retin-ALT Power Serum,Moderate
+374,Fragrance,Backlight Priming Filter Face Primer,Moderate
+375,Fragrance,GRAVITYMUD™ Firming Treatment,Moderate
+376,Fragrance,R.N.A. POWER Anti-Aging Essence Serum,Moderate
+377,Fragrance,White Lucent MicroTargeting Spot Corrector,Moderate
+378,Fragrance,Rose Deep Hydration Face Serum,Moderate
+379,Fragrance,Black Tea Age-Delay Firming Serum,Moderate
+380,Fragrance,Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++,Moderate
+381,Fragrance,Bio-Peel Gauze Peeling - Green Tea,Moderate
+382,Fragrance,Minus Serum,Moderate
+383,Fragrance,Visionnaire Advanced Skin Corrector Serum,Moderate
+384,Fragrance,Retinol Youth Renewal Serum,Moderate
+385,Fragrance,Vine[Activ] Vitamin C Anti-Wrinkle Serum,Moderate
+386,Fragrance,Vitamin C Ester Brightening Serum,Moderate
+387,Fragrance,Luminous Deep Hydration Firming Serum,Moderate
+388,Fragrance,ELEVATE Advanced Retinol Serum,Moderate
+389,Fragrance,Lift Serum Intense with Stem Cell Recovery Complex,Moderate
+390,Fragrance,Skin Love Glow Elixir,Moderate
+391,Fragrance,Resveratrol Lift Firming Serum,Moderate
+392,Fragrance,Active Retinol Renewal Kit,Moderate
+393,Fragrance,Advanced Génifique Sensitive Antioxidant Serum,Moderate
+394,Fragrance,Revitalixir™ Recovery Serum,Moderate
+395,Fragrance,Shaping Facial Lift Total V Contouring Serum,Moderate
+396,Fragrance,White Lucent Luminizing Surge,Moderate
+397,Fragrance,Red Jelly Pack,Moderate
+398,Fragrance,Superfood Firm and Brighten Vitamin C Serum,Moderate
+399,Fragrance,+Retinol Vita C Power Serum,Moderate
+400,Fragrance,Power Peel™ Transforming Facial System,Moderate
+401,Fragrance,"Black Pine 3D Sculpting, Firming & Lifting Face Serum",Moderate
+402,Fragrance,GENIUS Ultimate Anti-Aging Vitamin C+ Serum,Moderate
+403,Fragrance,MOISTURE BOUND Rejuvenating Serum,Moderate
+404,Fragrance,Sunless Tan Anti-Aging Face Serum,Moderate
+405,Fragrance,Perfect Canvas Skin Finishing Serum,Moderate
+406,Fragrance,Outsmart Acne Clarifying Treatment,Moderate
+407,Fragrance,Therapeutic Sulfur Mask Acne Treatment Mask,Moderate
+408,Fragrance,Enlighten Dark Spot Correcting Night Serum,Moderate
+409,Fragrance,PRE:EMPT SERIES™ Skin Perfecting Serum,Moderate
+410,Fragrance,FUTURE RESPONSE Age Defense Serum,Moderate
+411,Fragrance,Hyaluronic Marine Hydration Booster,Moderate
+412,Fragrance,Bio-Performance Glow Revival Serum,Moderate
+413,Fragrance,Breakout Fighters,Moderate
+414,Fragrance,Essential Fx Acyl-Glutathione Deep Crease Serum,Moderate
+415,Fragrance,Advanced Acne & Wrinkle Reducer,Moderate
+416,Fragrance,Bio-Performance LiftDynamic Serum,Moderate
+417,Fragrance,Acne Body Wash,Moderate
+418,Fragrance,Glycolic Peel,Moderate
+419,Fragrance,Golden Krocus Ageless Saffron Elixir Serum,Moderate
+420,Fragrance,Peat Miracle Revital Serum Concentrate,Moderate
+421,Fragrance,SKINLONGEVITY™ Vital Power Infusion Serum,Moderate
+422,Fragrance,Bio Retinoid Anti-Wrinkle Concentrate Oil,Moderate
+423,Fragrance,Lotus Face Treatment Oil,Moderate
+424,Fragrance,Perfectionist Pro Rapid Firm + Lift Treatment,Moderate
+425,Fragrance,Vitamin C Ester Brightening Amine Face Lift,Moderate
+426,Fragrance,Future Solution LX Intensive Firming Contour Serum,Moderate
+427,Fragrance,Advanced Active Radiance® Serum,Moderate
+428,Fragrance,White Marble Dual Phase Vitamin C Peel,Moderate
+429,Fragrance,Micro-Blur™ Skin Perfector,Moderate
+430,Fragrance,Flash Hydro-Boost Instant Plumping Emulsion,Moderate
+431,Fragrance,High Potency Classics: Firming Evening Repair,Moderate
+432,Fragrance,Hydra Sebum Control Essence,Moderate
+433,Fragrance,GENIUS Ultimate Anti-Aging Bi-Phase Peel,Moderate
+434,Fragrance,Crème Ancienne® Supreme Face Serum,Moderate
+435,Fragrance,EradiKate™ Mask Foam-Activated Acne Treatment,Moderate
+436,Fragrance,Concentrated Reconstructing Serum,Moderate
+437,Fragrance,Mission Perfection Serum,Moderate
+438,Fragrance,Silver Skin Savior Salicylic/Glycolic Acid Treatment,Moderate
+439,Fragrance,ELEVATE Advanced Lift Contouring Cream,Moderate
+440,Fragrance,Face Mask Magic,Moderate
+441,Fragrance,Lip Sleeping Mask,Moderate
+442,Fragrance,Rose Face Mask,Moderate
+443,Fragrance,Black Tea Instant Perfecting Mask,Moderate
+444,Fragrance,Face Mask,Moderate
+445,Fragrance,The Lifting and Firming Mask,Moderate
+446,Fragrance,Experiential Masks Set,Moderate
+447,Fragrance,Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer,Moderate
+448,Fragrance,Overnight Miracle Mask,Moderate
+449,Fragrance,Watermelon Glow Sleeping Mask Mini,Moderate
+450,Fragrance,Black Tea Firming Overnight Mask Mini,Moderate
+451,Fragrance,The Ultimate Glow Set,Moderate
+452,Fragrance,Hand Mask,Moderate
+453,Fragrance,Vitamin C Glow Face Mask,Moderate
+454,Fragrance,Hand Mask - Avocado,Moderate
+455,Fragrance,The Brilliance Brightening Mask,Moderate
+456,Fragrance,Face Mask - Pearl - Brightening,Moderate
+457,Fragrance,Black Tea Instant Perfecting Mask Mini,Moderate
+458,Fragrance,Luminous Dewy Skin Sheet Mask,Moderate
+459,Fragrance,Face Mask - Avocado,Moderate
+460,Fragrance,Advanced Génifique Hydrogel Melting Mask,Moderate
+461,Fragrance,Purity Made Simple Pore Extractor Mask,Moderate
+462,Fragrance,Egg Cream Mask Hydration,Moderate
+463,Fragrance,Clay Mask,Moderate
+464,Fragrance,Nutritious Vitality8™ Night Creme/Mask,Moderate
+465,Fragrance,Face Mask - Green Tea - Mattifying,Moderate
+466,Fragrance,Mud Mask Purifying & Mattifying,Moderate
+467,Fragrance,Evercalm™ Ultra Comforting Rescue Mask,Moderate
+468,Fragrance,Watermelon Glow Jelly Sheet Mask,Moderate
+469,Fragrance,Crazy for Clay!,Moderate
+470,Fragrance,Luminous Deep Hydration Lifting Mask,Moderate
+471,Fragrance,Face Mask - Rose - Moisturizing,Moderate
+472,Fragrance,Time Freeze Sleeping Mask,Moderate
+473,Fragrance,SUPERMASK - The Golden Mask,Moderate
+474,Fragrance,#GLITTERMASK GRAVITYMUD™ Firming Treatment,Moderate
+475,Fragrance,Greek Yoghurt Advanced Nourishing Sleeping Facial,Moderate
+476,Fragrance,Face Mask - Aloe Vera - Replenishing,Moderate
+477,Fragrance,MOISTURE BOUND Sleeping Recovery Mask,Moderate
+478,Fragrance,Face Mask - Pineapple - Pore Perfecting,Moderate
+479,Fragrance,Face Mask - Coconut - Nourishing,Moderate
+480,Fragrance,SUPERMASK - The Charcoal Mask,Moderate
+481,Fragrance,Superfood Skin Reset Antioxidant Mask,Moderate
+482,Fragrance,Sleeping Mask - Rose,Moderate
+483,Fragrance,SUPERMASK - The Silver Mask,Moderate
+484,Fragrance,Sleeping Mask - Pearl,Moderate
+485,Fragrance,Treatment Lotion Hydrating Mask,Moderate
+486,Fragrance,Pomegranate AHA & Enzymes Resurfacing Mask,Moderate
+487,Fragrance,Moisturizing Mask,Moderate
+488,Fragrance,Face Mask - Algae - Detoxifying,Moderate
+489,Fragrance,Face Mask - Grape - Anti-pollution,Moderate
+490,Fragrance,Goddess Clay Mask,Moderate
+491,Fragrance,The Lifting and Firming Mask Mini,Moderate
+492,Fragrance,SUPERMASK - The Mud Mask,Moderate
+493,Fragrance,Brightening Infusion Hydrogel Mask,Moderate
+494,Fragrance,Deep Cleansing Mask,Moderate
+495,Fragrance,Sleeping Mask - Coconut Water,Moderate
+496,Fragrance,Face Mask - Algae,Moderate
+497,Fragrance,Pore Minimalist Black Charcoal Sheet Mask,Moderate
+498,Fragrance,Pore Cleaner Bubble Foam,Moderate
+499,Fragrance,Sleeping Mask - Aloe Vera,Moderate
+500,Fragrance,Hydrating Lip Mask,Moderate
+501,Fragrance,V-Facial Intensive Wrap,Moderate
+502,Fragrance,Cocoa Moisture Mask,Moderate
+503,Fragrance,Face Mask - Lotus,Moderate
+504,Fragrance,Extra-Firming Mask,Moderate
+505,Fragrance,Polishing Mask,Moderate
+506,Fragrance,Midnight Radiance Mask,Moderate
+507,Fragrance,PERFECT Clarifying Pore Corrector Mask,Moderate
+508,Fragrance,Gel Mask Hydrating & Quenching,Moderate
+509,Fragrance,Hygge HydraClay™ Detox Mask,Moderate
+510,Fragrance,Water Pocket Sheet Mask Sleeping Mask (Replenishing),Moderate
+511,Fragrance,TIME RESPONSE Vintage Wash-off Masque,Moderate
+512,Fragrance,MOISTURE BOUND Intensive Serum Masque,Moderate
+513,Fragrance,Pore Extractor Pomegranate Mask,Moderate
+514,Fragrance,Face Mask - Pomegranate,Moderate
+515,Fragrance,NightWear Plus 3-Minute Detox Mask,Moderate
+516,Fragrance,Rose Jelly Mask,Moderate
+517,Fragrance,Bamboo Waterlock Mask,Moderate
+518,Fragrance,After-Sun Mask - Watermelon,Moderate
+519,Fragrance,Whipped Mud Mask Collection,Moderate
+520,Fragrance,Wrinkle Warrior® Pink Plumping Mask,Moderate
+521,Fragrance,Algae Brightening Mask,Moderate
+522,Fragrance,Egg Cream Mask Firming,Moderate
+523,Fragrance,Coconut Ceramide Mask,Moderate
+524,Fragrance,First Aid Transforming Peel Off Mask,Moderate
+525,Fragrance,Ain’t Misbehavin’® Intensive 10% Sulfur Acne Mask & Emergency Spot Treatment,Moderate
+526,Fragrance,Jelly Mask Moisturizing & Energizing,Moderate
+527,Fragrance,The True Tincture Mask - Chamomile,Moderate
+528,Fragrance,Nose Mask - Pineapple,Moderate
+529,Fragrance,Peel-off Mask,Moderate
+530,Fragrance,Water Pocket Sheet Mask Water Bank (Moisturizing),Moderate
+531,Fragrance,SPLASH Absolute Hydration Replenishing Sleeping Pack,Moderate
+532,Fragrance,SOS Hydra Refreshing Hydration Mask,Moderate
+533,Fragrance,SUPERMASK - The Primer Mask,Moderate
+534,Fragrance,Egg Mousse Pack,Moderate
+535,Fragrance,Self Tan Express Bronzing Face Sheet Mask,Moderate
+536,Fragrance,Mask-Imum Revival Hydra-Plumping Mask,Moderate
+537,Fragrance,PRE:EMPT SERIES™ Refreshing Shower Mask,Moderate
+538,Fragrance,The Eye Concentrate,Moderate
+539,Fragrance,Benefiance WrinkleResist24 Intensive Eye Contour Cream,Moderate
+540,Fragrance,Banana Bright Eye Crème,Moderate
+541,Fragrance,Black Tea Firming and De-Puffing Eye Cream,Moderate
+542,Fragrance,Moisturizing Eye Bomb,Moderate
+543,Fragrance,The Eye Balm Intense,Moderate
+544,Fragrance,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,Moderate
+545,Fragrance,Eye Sleeping Mask,Moderate
+546,Fragrance,Super Restorative Total Eye Concentrate,Moderate
+547,Fragrance,The Lifting Eye Serum,Moderate
+548,Fragrance,Eye Mask,Moderate
+549,Fragrance,Advanced Génifique Eye Cream,Moderate
+550,Fragrance,Ultimune Eye Power Infusing Eye Concentrate,Moderate
+551,Fragrance,Water Bank Eye Gel,Moderate
+552,Fragrance,Future Solution LX Eye and Lip Contour Regenerating Cream,Moderate
+553,Fragrance,Cucumber De-Tox™ Hydra-Gel Eye Patches,Moderate
+554,Fragrance,Rénergie Lift Multi-Action Eye,Moderate
+555,Fragrance,MOISTURE BOUND Rejuvenating Eye Treatment Gel,Moderate
+556,Fragrance,Puffy Under-Eye Patches,Moderate
+557,Fragrance,Extra Eye Repair Cream,Moderate
+558,Fragrance,Superfood Peptide Eye Cream,Moderate
+559,Fragrance,Bio-Performance LiftDynamic Eye Treatment,Moderate
+560,Fragrance,Retinol Youth Renewal Eye Serum,Moderate
+561,Fragrance,"Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum",Moderate
+562,Fragrance,Crème Ancienne Supreme Eye Serum,Moderate
+563,Fragrance,Extra-Firming Eye Wrinkle Smoothing Cream,Moderate
+564,Fragrance,Peat Miracle Revital Eye Cream,Moderate
+565,Fragrance,Intensive Vitalizing Eye Essence,Moderate
+566,Fragrance,Illuminating Bright Eyes Gels + Silky Mask Beauty Sleep Set,Moderate
+567,Fragrance,TIME RESPONSE Eye Reserve Crème,Moderate
+568,Fragrance,Hello Bright Eyes,Moderate
+569,Fragrance,Multi-Task Eye Serum Mask,Moderate
+570,Fragrance,Ibuki Eye Correcting Cream,Moderate
+571,Fragrance,Bio Performance Glow Revival Eye Treatment,Moderate
+572,Fragrance,"Black Pine 3D Sculpting, Firming & Lifting Eye Cream",Moderate
+573,Fragrance,Helix AM/PM Eye Gel,Moderate
+574,Fragrance,Énergie de Vie The Illuminating & Anti-Fatigue Cooling Eye Gel,Moderate
+575,Fragrance,Luminous Deep Hydration Revitalizing Eye Mask,Moderate
+576,Fragrance,Enhancing Eye Lift Serum,Moderate
+577,Fragrance,Essential Energy Eye Definer,Moderate
+578,Fragrance,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,Moderate
+579,Fragrance,Ultimate Revival Eye Cream,Moderate
+580,Fragrance,Mission Perfection Eye Broad Spectrum SPF 15,Moderate
+581,Fragrance,Ice-Cold Eye Cream,Moderate
+582,Fragrance,Vitamin C Ester Brightening Eye Serum,Moderate
+583,Fragrance,Lotus Caress to Moisturize Eyes,Moderate
+584,Fragrance,Eye Mask - Grape - Smoothing,Moderate
+585,Fragrance,Urban Environment Oil-Free UV Protector Broad Spectrum SPF 42 For Face,Moderate
+586,Fragrance,Silken Pore Perfecting Sunscreen Broad Spectrum SPF 35 PA+++,Moderate
+587,Fragrance,Ultimate Sun Protection Lotion WetForce SPF 50+,Moderate
+588,Fragrance,Sunscreen Multi-Protection Broad Spectrum SPF 50,Moderate
+589,Fragrance,Radiance Primer Broad Spectrum SPF 35 Sunscreen,Moderate
+590,Fragrance,Ultimate Sun Protection Cream Broad Spectrum SPF 50+ Wetforce For Face,Moderate
+591,Fragrance,MOISTURE BOUND Tinted Treatment Moisturizer SPF 15,Moderate
+592,Fragrance,Renewed Hope In A Jar SPF 30,Moderate
+593,Fragrance,High Potency Classics: Face Finishing & Firming Moisturizer Tint SPF 30,Moderate
+594,Fragrance,FUTURE RESPONSE Age Defense Creme SPF 30,Moderate
+595,Fragrance,Advanced Time Zone SPF 15- Normal/Combination Skin,Moderate
+596,Fragrance,Multi-Active Day Cream SPF 20 - All Skin Types,Moderate
+597,Fragrance,Bienfait Teinté Beauty Balm Sunscreen Broad Spectrum SPF 30,Moderate
+598,Fragrance,Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen,Moderate
+599,Fragrance,Sports BB Broad Spectrum SPF 50+ WetForce,Moderate
+600,Fragrance,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,Moderate
+601,Fragrance,The Broad Spectrum SPF 50 UV Protecting Fluid,Moderate
+602,Fragrance,Ultimate Sun Protection Lotion WetForce SPF 50+ Mini,Moderate
+603,Fragrance,Wetforce Clear Stick UV Protector Broad Spectrum 50+,Moderate
+604,Fragrance,Black Tea Age-Delay Lotion Broad Spectrum Sunscreen SPF 20,Moderate
+605,Fragrance,CC Red Correct Automatic Perfector Broad Spectrum SPF 25,Moderate
+606,Fragrance,Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30,Moderate
+607,Fragrance,Sugar Sport Treatment Sunscreen SPF 30,Moderate
+608,Fragrance,Balancing Moisturizer Broad Spectrum SPF 15 PA++,Moderate
+609,Fragrance,Resurgence® Age–Balancing Moisture Broad Spectrum SPF 30,Moderate
+610,Fragrance,Repairing Tint & Radiance Moisturizer SPF 30,Moderate
+611,Fragrance,Moisturizing Bomb Cushion Compact Broad Spectrum SPF 50,Moderate
+612,Fragrance,DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50,Moderate
+613,Fragrance,Face Lotion SPF 30,Moderate
+614,Fragrance,Classic Sport SPF 50 - Fresh Mango,Moderate
+615,Fragrance,DayWear Multi-Protection Anti-Oxidant Sheer Tint Release Moisturizer Broad Spectrum SPF 15 - Normal/ Combination Skin,Moderate
+616,Fragrance,Rènergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For Dry Skin,Moderate
+617,Fragrance,Face Protect SPF 50,Moderate
+618,Fragrance,DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35,Moderate
+619,Fragrance,Resort Collection Sun Protection Cushion SPF 30+,Moderate
+620,Fragrance,Sunscreen Cream High Protection SPF 30,Moderate
+621,Fragrance,Sun Oil 15 SPF,Moderate
+622,Fragrance,Ultimate Miracle Worker Multi-Rejuvenating Lightweight Emulsion SPF 30,Moderate
+623,Fragrance,Resort Collection Sun Protection Mist Broad Spectrum SPF 30 Sunscreen,Moderate
+624,Fragrance,Primer Broad Spectrum Sunscreen SPF 25,Moderate
+625,Fragrance,Sun Lotion 50 SPF,Moderate
+626,Fragrance,Sun Lotion 30 SPF,Moderate
+627,Fragrance,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen,Moderate
+628,Fragrance,After-Sun Milk Soothing Body Lotion,Moderate
+629,Fragrance,Yoghurt Nourishing Fluid Veil Face Sunscreen Broad Spectrum SPF 30,Moderate
+630,Fragrance,Daily Deflector™ Waterlight Broad Spectrum SPF 50+ PA+++ Anti-Aging Sunscreen,Moderate
+631,Fragrance,Pro Light Self Tan Bronzing Mist,Moderate
+633,Fragrance,Treatment Cleansing Foam,Moderate
+636,Triclosan,Charlotte's Magic Cream,Moderate
+637,Triclosan,Charlotte's Magic Cream Mini,Moderate
+638,Triclosan,A Perfect World™ SPF 40 Age-Defense Moisturizer with White Tea,Moderate
+639,Triclosan,Plantscription™ SPF 25 Power Anti-Aging Cream,Moderate
+640,Homosalate,Exfoliating Scrub,Moderate
+641,Homosalate,GENIUS Liquid Collagen,Moderate
+642,Homosalate,Plantscription™ SPF 25 Power Anti-Aging Oil-Free Cream,Moderate
+643,Homosalate,Defense Refresh Setting Mist Broad Spectrum SPF 50,Moderate
+644,Homosalate,Photo Finish Foundation Primer SPF 20,Moderate
+645,Homosalate,The Broad Spectrum SPF 50 UV Protecting Fluid,Moderate
+646,Homosalate,Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,Moderate
+647,Homosalate,Broad Spectrum SPF 50 Sunscreen Face Cream,Moderate
+648,Homosalate,DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50,Moderate
+649,Homosalate,Resort Collection Sun Protection Mist Broad Spectrum SPF 30 Sunscreen,Moderate
+650,Homosalate,Virtu-oil Body Mist Broad Spectrum SPF 30,Moderate
+651,Homosalate,Sun Lotion 30 SPF,Moderate
+652,Homosalate,Perfect Day 2-in-1 Everywear Lotion Broad Spectrum SPF 50 + Mint Condition Lip Shield SPF 30,Moderate
+1,Talc,CC Crème High Definition Radiance Face Cream Skin Perfector,High
+2,Talc,Bio-Performance Advanced Super Restoring Cream,High
+3,Talc,Skin Perfecting Lotion - Blemish Prone/Oily Skin,High
+4,Talc,Bio-Performance Glow Revival Cream,High
+5,Talc,BB Crème au Ginseng,High
+6,Talc,Black Label Detox BB Beauty Balm,High
+7,Talc,Bio-Performance LiftDynamic Cream,High
+8,Talc,Ibuki Beauty Sleeping Mask,High
+9,Talc,Benefiance Extra Creamy Cleansing Foam,High
+10,Talc,Pureness Deep Cleansing Foam,High
+11,Talc,Therapeutic Sulfur Mask Acne Treatment Mask,High
+12,Talc,Bio-Performance LiftDynamic Serum,High
+13,Talc,REVEAL Concentrated Color Correcting Drops,High
+14,Talc,Clay Mask,High
+15,Talc,Crazy for Clay!,High
+16,Talc,Charcoal Pore Pudding Intensive Wash-Off Treatment,High
+17,Talc,Peel-off Mask,High
+18,Talc,Ibuki Eye Correcting Cream,High
+19,Talc,Essential Energy Eye Definer,High
+20,Talc,BB Eye Cream with Soothing Cornflower,High
+21,Talc,Ultimate Sun Protection Lotion WetForce SPF 50+,High
+22,Talc,Ultimate Sun Protection Cream Broad Spectrum SPF 50+ Wetforce For Face,High
+23,Talc,MOISTURE BOUND Tinted Treatment Moisturizer SPF 15,High
+24,Talc,Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen,High
+25,Talc,Sports BB Broad Spectrum SPF 50+ WetForce,High
+26,Talc,Ultimate Sun Protection Lotion WetForce SPF 50+ Mini,High
+27,Talc,CC Red Correct Automatic Perfector Broad Spectrum SPF 25,High
+28,Talc,Super Fluid UV Mineral Defense Titanium Dioxide Sunscreen Broad Spectrum SPF 50+,High
+29,Talc,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen,High
+32,Propylene Glycol,Lotus Youth Preserve Moisturizer,High
+33,Propylene Glycol,Dramatically Different Moisturizing Lotion+,High
+34,Propylene Glycol,Water Bank Moisture Cream,High
+35,Propylene Glycol,Dramatically Different Moisturizing Gel,High
+36,Propylene Glycol,Camera Ready BB Cream SPF 35,High
+37,Propylene Glycol,Revitalizing Supreme Global Anti-Aging Crème,High
+38,Propylene Glycol,Water Drench Hyaluronic Cloud Cream,High
+39,Propylene Glycol,Water Bank Essence,High
+40,Propylene Glycol,Dramatically Different Hydrating Jelly,High
+41,Propylene Glycol,Invigorating Night Transformation™ Gel,High
+42,Propylene Glycol,Super Multi-Corrective Cream,High
+43,Propylene Glycol,Miracle Water 3-in-1 Micellar Cleanser,High
+44,Propylene Glycol,Water Bank Hydrating Gel,High
+45,Propylene Glycol,Tech Neck Prevention Kit,High
+46,Propylene Glycol,Advanced Time Zone Night Age Reversing Line/Wrinkle Crème,High
+47,Propylene Glycol,Limited Edition Dramatically Different™ Moisturizing Gel,High
+48,Propylene Glycol,"Resilience Lift Firming/Sculpting Face and Neck Creme Broad Spectrum SPF 15, Normal/Combination Skin",High
+49,Propylene Glycol,Ultra Facial Overnight Hydrating Mask,High
+50,Propylene Glycol,Black Label Detox BB Beauty Balm,High
+51,Propylene Glycol,Treatment Toner,High
+52,Propylene Glycol,MOISTURE BOUND Refreshing Hydra-Gel Oil-Free,High
+53,Propylene Glycol,Hydra Zen Anti-Stress Gel Moisturizer,High
+54,Propylene Glycol,Mega Rich Intensive Anti-Aging Cellular Creme,High
+55,Propylene Glycol,Hydrating Face Cream Moisturizer,High
+56,Propylene Glycol,Limited Edition Dramatically Different Moisturizing Lotion+™,High
+57,Propylene Glycol,Repairwear Laser Focus Night Line Smoothing Cream for Very Dry to Dry Combination Skin,High
+58,Propylene Glycol,DREAMDUO™ Overnight Transforming Treatment,High
+59,Propylene Glycol,The Moisturizing Matte Lotion,High
+60,Propylene Glycol,Super Restorative Night Age Spot Correcting Replenishing Cream,High
+61,Propylene Glycol,Calendula Herbal Extract Alcohol Free Toner,High
+62,Propylene Glycol,Sugar Face Polish Exfoliator,High
+63,Propylene Glycol,Facial Treatment Cleanser,High
+64,Propylene Glycol,microdermabrasion age defying exfoliator,High
+65,Propylene Glycol,Anti-Aging Cleansing Gel,High
+66,Propylene Glycol,Bye Bye Makeup™ 3-in-1 Makeup Melting Cleansing Balm,High
+67,Propylene Glycol,Treatment Cleansing Foam,High
+68,Propylene Glycol,Multi Cleanser,High
+69,Propylene Glycol,Gentle Foaming Cleanser with Cottonseed,High
+70,Propylene Glycol,Toning Lotion with Camomile,High
+71,Propylene Glycol,Flawless Skin Face Polish,High
+72,Propylene Glycol,Green Tea Real Fresh Foam Cleanser,High
+73,Propylene Glycol,Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,High
+74,Propylene Glycol,Truth™ On the Glow Cleansing Cloths,High
+75,Propylene Glycol,One-Step Gentle Exfoliating Cleanser with Orange Extract,High
+76,Propylene Glycol,Cleansing & Clarifying Duo,High
+77,Propylene Glycol,Cucumber Herbal Alcohol-Free Toner,High
+78,Propylene Glycol,8% Glycolic Solutions Toner,High
+79,Propylene Glycol,Acne Clearing Wash,High
+80,Propylene Glycol,Bergamot Herbal Extract Toner,High
+81,Propylene Glycol,A Glowing Regimen Trial Set,High
+82,Propylene Glycol,3% Glycolic Solutions Cleanser,High
+83,Propylene Glycol,Facial Treatment Cleansing Oil,High
+84,Propylene Glycol,Eau Ginseng,High
+85,Propylene Glycol,Irish Moor Mud Purifying Cleanser Gel,High
+86,Propylene Glycol,Fresh Pressed 7-day System with Pure Vitamin C,High
+87,Propylene Glycol,Cucumber Herbal Conditioning Cleanser,High
+88,Propylene Glycol,Extra Rich Cleansing Milk,High
+89,Propylene Glycol,Blue Herbal Acne Cleanser Treatment,High
+90,Propylene Glycol,Pore Refining Detox Double Cleanse,High
+91,Propylene Glycol,Clearly Corrective™ Dark Spot Solution,High
+92,Propylene Glycol,Powerful-Strength Line-Reducing Concentrate 12.5% Vitamin C,High
+93,Propylene Glycol,Ferulic Acid + Retinol Brightening Solution,High
+94,Propylene Glycol,Perfectionist CP+R Wrinkle Lifting/Firming Serum,High
+95,Propylene Glycol,Clinique Smart Custom-Repair Serum,High
+96,Propylene Glycol,The Perfecting Treatment,High
+97,Propylene Glycol,Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++,High
+98,Propylene Glycol,Un-Wrinkle Peel Pads,High
+99,Propylene Glycol,The Microdelivery Resurfacing Peel,High
+100,Propylene Glycol,Even Better Clinical Dark Spot Corrector & Optimizer,High
+101,Propylene Glycol,Water Drench Hyaluronic Cloud Serum,High
+102,Propylene Glycol,Fresh Pressed Daily Booster with Pure Vitamin C 10%,High
+103,Propylene Glycol,Ever-Matte Poreless Priming Perfector,High
+104,Propylene Glycol,Bye Bye Lines Serum™ Advanced Anti-Aging Wrinkle-Smoothing Miracle Concentrate,High
+105,Propylene Glycol,Therapeutic Sulfur Mask Acne Treatment Mask,High
+106,Propylene Glycol,Enlighten Dark Spot Correcting Night Serum,High
+107,Propylene Glycol,Dermaclear™ Micro Milk Peel,High
+108,Propylene Glycol,Acne Solutions Clear Skin System Starter Kit,High
+109,Propylene Glycol,AHA/BHA Acne Clearing Gel,High
+110,Propylene Glycol,EGF Day Serum,High
+111,Propylene Glycol,Calm Cool & Corrected,High
+112,Propylene Glycol,Perfectionist Pro Rapid Firm + Lift Treatment,High
+113,Propylene Glycol,Acne Solutions All-Over Clearing Treatment Oil-Free,High
+114,Propylene Glycol,Mission Perfection Serum,High
+115,Propylene Glycol,Mask Frenzy,High
+116,Propylene Glycol,Mini Mask Musts,High
+117,Propylene Glycol,The Lifting and Firming Mask,High
+118,Propylene Glycol,Clear Improvement® Active Charcoal Mask to Clear Pores,High
+119,Propylene Glycol,Lotus Youth Preserve Rescue Mask,High
+120,Propylene Glycol,Original Skin™ Retexturizing Mask with Rose Clay,High
+121,Propylene Glycol,Hand Mask,High
+122,Propylene Glycol,Hand Mask - Avocado,High
+123,Propylene Glycol,Crème Ancienne® Ultimate Nourishing Honey Mask,High
+124,Propylene Glycol,Hydra-Therapy Skin Vitality Treatment Masks,High
+125,Propylene Glycol,Purity Made Simple Pore Extractor Mask,High
+126,Propylene Glycol,Nutritious Vitality8™ Night Creme/Mask,High
+127,Propylene Glycol,Rose Stem Cell Bio-Repair Gel Mask,High
+128,Propylene Glycol,The Lifting and Firming Mask Mini,High
+129,Propylene Glycol,Cocoa Moisture Mask,High
+130,Propylene Glycol,Skin Nourish Coral Grass & Green Algae Moisture Face Mask,High
+131,Propylene Glycol,Pore Refining Solutions Charcoal Mask,High
+132,Propylene Glycol,MAGNETIGHT™ Age-Defier Mask Bundle,High
+133,Propylene Glycol,Hungarian Thermal Water Mineral-Rich Atomic Heat Mask,High
+134,Propylene Glycol,Dermask Intra Jet Wrinkless Solution™,High
+135,Propylene Glycol,Dermask Intra Jet Firming Solution™,High
+136,Propylene Glycol,The Intensive Revitalizing Mask,High
+137,Propylene Glycol,Cucumber Gel Mask Extreme Detoxifying Hydrator,High
+138,Propylene Glycol,Coconut Ceramide Mask,High
+139,Propylene Glycol,Ain’t Misbehavin’® Intensive 10% Sulfur Acne Mask & Emergency Spot Treatment,High
+140,Propylene Glycol,Peel-off Mask,High
+141,Propylene Glycol,Firmarine Lift Face Mask,High
+142,Propylene Glycol,Sculptwear Contouring Massage Cream Mask,High
+143,Propylene Glycol,The Eye Concentrate,High
+144,Propylene Glycol,Creamy Eye Treatment with Avocado,High
+145,Propylene Glycol,Black Tea Firming and De-Puffing Eye Cream,High
+146,Propylene Glycol,The Eye Balm Intense,High
+147,Propylene Glycol,"Bye Bye Under Eye Eye Cream™ Smooths, Brightens, Depuffs",High
+148,Propylene Glycol,Ferulic + Retinol Triple Correction Eye Serum,High
+149,Propylene Glycol,Advanced Night Repair Eye Concentrate Matrix,High
+150,Propylene Glycol,Mega Rich Intensive Anti-Aging Cellular Eye Creme,High
+151,Propylene Glycol,Powerful Wrinkle Reducing Eye Cream,High
+152,Propylene Glycol,Repairwear Laser Focus Wrinkle Correcting Eye Cream,High
+153,Propylene Glycol,Lotus Eye Gel,High
+154,Propylene Glycol,Illuminating Bright Eyes Gels + Silky Mask Beauty Sleep Set,High
+155,Propylene Glycol,Advanced Time Zone Age Reversing Line/Wrinkle Eye Creme,High
+156,Propylene Glycol,Youth Dose Eye Treatment,High
+157,Propylene Glycol,Un-Wrinkle Eye,High
+158,Propylene Glycol,Ultimate Miracle Worker Eye Cream,High
+159,Propylene Glycol,Clinique Smart Custom-Repair Eye Treatment,High
+160,Propylene Glycol,Power K Eye Rescue®,High
+161,Propylene Glycol,Helix AM/PM Eye Gel,High
+162,Propylene Glycol,Retinol Fusion PM Eye Cream,High
+163,Propylene Glycol,Resilience Lift Firming/Sculpting Eye Creme,High
+164,Propylene Glycol,Wrinkle Revenge Eye Balm,High
+165,Propylene Glycol,Purity Made Simple Hydra-Bounce Eye Gel,High
+166,Propylene Glycol,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,High
+167,Propylene Glycol,Powerful-Strength Line-Reducing Eye-Brightening Concentrate,High
+168,Propylene Glycol,Time In A Bottle For Eyes 100% In-Control,High
+169,Propylene Glycol,Smoothing and Relaxing Patches with Soothing Cornflower,High
+170,Propylene Glycol,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,High
+171,Propylene Glycol,Ice-Cold Eye Cream,High
+172,Propylene Glycol,MOISTURE BOUND Tinted Treatment Moisturizer SPF 15,High
+173,Propylene Glycol,Max Sheer All Day Moisture Defense Lotion SPF 30 Sunscreen Lotion,High
+174,Propylene Glycol,Perfecting Day Cream Broad Spectrum SPF 30 PA+++,High
+175,Propylene Glycol,Advanced Time Zone SPF 15- Normal/Combination Skin,High
+176,Propylene Glycol,Ultra Facial Moisturizer SPF 30,High
+177,Propylene Glycol,Super City Block Oil-Free Daily Face Protector Broad Spectrum 40 SPF,High
+178,Propylene Glycol,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,High
+179,Propylene Glycol,Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30,High
+180,Propylene Glycol,Resurgence® Age–Balancing Moisture Broad Spectrum SPF 30,High
+181,Propylene Glycol,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin,High
+182,Propylene Glycol,City Block Sheer Oil-Free Daily Face Protector SPF 25,High
+183,Propylene Glycol,DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35,High
+184,Propylene Glycol,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,High
+185,Propylene Glycol,Oil-Free Face Cream Broad Spectrum SPF 30,High
+186,Propylene Glycol,Pro Light Self Tan Bronzing Mist,High
