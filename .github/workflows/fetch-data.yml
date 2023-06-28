@@ -3,7 +3,7 @@ name: Fetch and Push Data
 on:
   push:
     # paths:
-      # - 'output/reports/visuals/dynamic/**'
+    #   - 'output/reports/visuals/dynamic/**'
 
 jobs:
   fetch-and-push:
@@ -20,8 +20,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name ${{ maha.kanakala }}
-          git config --global user.email ${{ maha.kanakala@gmail.com }}
+          git config --global user.name "maha.kanakala"
+          git config --global user.email "maha.kanakala@gmail.com"
 
       - name: Fetch data from toxins-in-skincare repository and create data directory
         run: |
@@ -32,11 +32,8 @@ jobs:
         run: |
           git clone https://github.com/mahakanakala/toxins-web.git
           cd toxins-web
-          git config user.name ${{ env.USER_NAME }}
-          git config user.email ${{ env.USER_EMAIL }}
-
-          echo "${{ secrets.GITHUB_TOKEN }}" | git credential-osxkeychain erase
-          echo "${{ secrets.GITHUB_TOKEN }}" | git credential-osxkeychain store
+          git config user.name ${{ secrets.USER_NAME }}
+          git config user.email ${{ secrets.USER_EMAIL }}
 
       - name: Copy data to toxins-web repository
         run: |
