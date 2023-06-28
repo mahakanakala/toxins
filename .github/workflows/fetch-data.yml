@@ -13,7 +13,7 @@ jobs:
       - name: Set up environment variables
         run: |
           python3.11 -m pip install python-dotenv
-          dotenv run env
+          dotenv run env -f .env
 
       - name: Checkout toxins-in-skincare repository
         uses: actions/checkout@v2
