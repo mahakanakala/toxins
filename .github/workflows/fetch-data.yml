@@ -2,8 +2,8 @@ name: Fetch and Push Data
 
 on:
   push:
-    paths:
-      - 'output/reports/visuals/dynamic/**'
+    # paths:
+      # - 'output/reports/visuals/dynamic/**'
 
 jobs:
   fetch-and-push:
