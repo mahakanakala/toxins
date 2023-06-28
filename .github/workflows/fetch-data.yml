@@ -3,7 +3,7 @@ name: Fetch and Push Data
 on:
   push:
     paths:
-      - 'reports/dynamic_visualizations/**'
+      - 'output/reports/visuals/dynamic/**'
 
 jobs:
   fetch-and-push:
@@ -26,20 +26,20 @@ jobs:
       - name: Fetch data from toxins-in-skincare repository and create data directory
         run: |
           mkdir -p ~/data
-          cp -R reports/dynamic_visualizations ~/data
+          cp -R output/reports/visuals/dynamic ~/data
 
       - name: Clone toxins-web repository
         run: |
-          git clone https://github.com/mahakanakala/toxins-website.git
+          git clone https://github.com/mahakanakala/toxins-web.git
           cd toxins-web
           git config user.name ${{ env.USER_NAME }}
           git config user.email ${{ env.USER_EMAIL }}
-          git remote set-url origin https://${{ env.GH_TOKEN }}@github.com/mahakanakala/toxins-website.git
+          git remote set-url origin https://${{ env.GH_TOKEN }}@github.com/mahakanakala/toxins-web.git
 
       - name: Copy data to toxins-web repository
         run: |
-          mkdir -p ~/toxins-web/public/visualizations/dynamic
-          cp -R ~/data/dynamic_visualizations ~/toxins-webs/public/visualizations/dynamic
+          mkdir -p ~/toxins-web/output/reports/visuas/dynamic
+          cp -R ~/data/dynamic ~/toxins-web/public/visualizations/dynamic
 
       - name: Commit and push changes to toxins-web repository
         run: |
