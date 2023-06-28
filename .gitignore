@@ -1,0 +1,18 @@
+docs/site/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+tests/__pycache__/*
+*.pytest_cache/
+
+# env
+.env
+
+# history
+/.history
+
+# node modules
+/node_modules

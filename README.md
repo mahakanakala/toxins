@@ -4,7 +4,7 @@
 
 ---
 ## Project Intro/Objective
-Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine.
+Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine, a database of clean products, and dynamic/static visualizations.
 
 ### Methods Used
 * Inferential Statistics
@@ -20,21 +20,22 @@ Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetic
 
 ## Project Description
 <!-- (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here) -->
-This data science project uses a skincare dataset to find trends in the use of toxins in skincare products and builds a machine learning algorithm to recommend skincare products based on various factors. The algorithm takes into account the user's skin type, concerns, and allergies, as well as the ingredients in each product.
-&rarr; **Research Notes:** [Notion](https://almondine-bedbug-4d3.notion.site/Toxins-in-Skincare-46051e770c60413f97ed509ea408dec6)
+This data science project uses a skincare dataset to find trends in the use of toxins in skincare products and builds a machine learning algorithm to recommend skincare products based on various factors. The algorithm takes into account the user's skin type, concerns, and allergies, as well as the ingredients in each product. It also feature static and dynamic visualizations using [Seaborn](https://seaborn.pydata.org/) and [Plotly](https://plotly.com/)
+**Research Notes:** [Notion](https://almondine-bedbug-4d3.notion.site/Toxins-in-Skincare-46051e770c60413f97ed509ea408dec6)
 
 ## Needs of this project
 
 - Reference/help on [Github Issues](https://github.com/mahakanakala/toxins-in-skincare/issues)
+- [Website Github Issues](https://github.com/mahakanakala/toxins-web/issues)
 - Explore more Ml models
 
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/data/raw)) within this repo.
 3. Data processing/transformation scripts are being kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/data/processed) within this repo.
-4. Data visuals are kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/reports/figures) within this repo.
+4. Data visuals are kept [here](https://github.com/mahakanakala/toxins-in-skincare/tree/main/reports) within this repo.
 
-*If the project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+<!-- *If the project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*   -->
 
 <!-- 5. Follow setup [instructions](Link to file) -->
 
@@ -42,25 +43,7 @@ This data science project uses a skincare dataset to find trends in the use of t
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link) -->
-
 ---
-
-# Cookiecutter Modern Data Science (file structure manager)
-[Cookiecutter] template for starting a Data Science project with modern, fast Python tools.
-
-## Features
-* [Pipenv] for managing packages and virtualenvs in a modern way.
-* [Prefect] for modern pipelines and data workflow.
-* [Weights and Biases] for experiment tracking.
-* [FastAPI] for self-documenting fast HTTP APIs - on par with NodeJS and Go - based on [asyncio], [ASGI], and [uvicorn].
-* Modern CLI with [Typer].
-* Batteries included: [Pandas], [numpy], [scipy], [seaborn], and [jupyterlab] already installed.
-* Consistent code quality: [black], [isort], [autoflake], and [pylint] already installed.
-* [Pytest] for testing.
-* [GitHub Pages] for the public website.
-
----
-
 ## Quickstart
 
 Install the latest Cookiecutter and Pipenv:
@@ -110,8 +93,10 @@ This is our your new project will look like:
     ├── output
     │   ├── features              <- Fitted and serialized features
     │   ├── models                <- Trained and serialized models, model predictions, or model summaries
-    │   └── reports               <- Generated analyses as HTML, PDF, LaTeX, etc.
-    │       └── figures           <- Generated graphics and figures to be used in reporting
+    │   └── reports               <- Generated analyses as HTML, PDF, LaTeX, text, etc.
+    │       └── visuals           <- Generated graphics and figures to be used in reporting
+    |           └── dynamic       <- Generated interactive visualizations (HTML used in the website)
+    |           └── static        <- Generated static visualizations
     │
     ├── pipelines                 <- Pipelines and data workflows.
     │   ├── Pipfile               <- The Pipfile for reproducing the pipelines environment
@@ -123,7 +108,7 @@ This is our your new project will look like:
     │   │   ├── features.py       <- Turn raw data into features for modeling
     │   │   └── train.py          <- Train and evaluate models
     │   └── tests
-    │       ├── fixtures          <- Where to put example inputs and outputs
+    │       ├── fixtures          <- Example inputs and outputs
     │       │   ├── input.json    <- Test input data
     │       │   └── output.json   <- Test output data
     │       └── test_pipelines.py <- Integration tests for the HTTP API
