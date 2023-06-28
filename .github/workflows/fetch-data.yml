@@ -35,6 +35,9 @@ jobs:
           git config user.name "maha.kanakala"
           git config user.email "maha.kanakala@gmail.com"
 
+          echo "${{ secrets.GITHUB_TOKEN }}" | git credential-osxkeychain erase
+          echo "${{ secrets.GITHUB_TOKEN }}" | git credential-osxkeychain store
+
       - name: Copy data to toxins-web repository
         run: |
           mkdir -p ~/toxins-web/output/reports/visuals/dynamic
