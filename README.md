@@ -4,7 +4,7 @@
 
 ---
 ## Project Intro/Objective
-Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine, a database of clean products, and dynamic/static visualizations.
+Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine, a database of clean products, and dynamic/static visualizations. View the [website](https://toxins-web.vercel.app/about) under development.
 
 ### Methods Used
 * Inferential Statistics
@@ -59,6 +59,10 @@ Get inside the project:
     cd <repo_name>
     pipenv shell  # activates virtualenv
 
+Install the latest Cookiecutter and Pipenv:
+
+    npm install
+
 (Optional) Start Weights & Biases locally, if you don't want to use the cloud/on-premise version:
 
     wandb local
@@ -68,8 +72,6 @@ Start working:
     jupyter-lab
 
 ## Directory structure
-
-This is our your new project will look like:
 
     ├── .gitignore                <- GitHub's excellent Python .gitignore customized for this project
     ├── LICENSE                   <- Your project's license.
@@ -123,29 +125,5 @@ This is our your new project will look like:
             │   └── output.json   <- Test output data
             └── test_app.py       <- Integration tests for the HTTP API
 
-
-
-
 [Cookiecutter]: https://github.com/audreyr/cookiecutter
-[Pipenv]: https://pipenv.pypa.io/en/latest/
-[Prefect]: https://docs.prefect.io/
-[Weights and Biases]: https://www.wandb.com/
-[MLFlow]: https://mlflow.org/
-[FastAPI]: https://fastapi.tiangolo.com/
-[asyncio]: https://docs.python.org/3/library/asyncio.html
-[ASGI]: https://asgi.readthedocs.io/en/latest/
-[uvicorn]: https://www.uvicorn.org/
-[Typer]: https://typer.tiangolo.com/
-[Pandas]: https://pandas.pydata.org/
-[numpy]: https://numpy.org/
-[scipy]: https://www.scipy.org/
-[seaborn]: https://seaborn.pydata.org/
-[jupyterlab]: https://jupyterlab.readthedocs.io/en/stable/
-[black]: https://github.com/psf/black
-[isort]: https://github.com/timothycrosley/isort
-[autoflake]: https://github.com/myint/autoflake
-[pylint]: https://www.pylint.org/
-[Pytest]: https://docs.pytest.org/en/latest/
-[GitHub Pages]: https://pages.github.com/
-[Git LFS]: https://git-lfs.github.com/
 
