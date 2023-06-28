@@ -43,7 +43,7 @@ jobs:
 
       - name: Commit and push changes to toxins-web repository
         run: |
-          cd ~/toxins-website
+          cd ~/toxins-web
           git add .
           git commit -m 'Update dynamic visualizations'
           git push origin HEAD
