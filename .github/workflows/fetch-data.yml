@@ -32,8 +32,8 @@ jobs:
         run: |
           git clone https://github.com/mahakanakala/toxins-web.git
           cd toxins-web
-          git config user.name ${{ secrets.USER_NAME }}
-          git config user.email ${{ secrets.USER_EMAIL }}
+          git config user.name "maha.kanakala"
+          git config user.email "maha.kanakala@gmail.com"
 
       - name: Copy data to toxins-web repository
         run: |
