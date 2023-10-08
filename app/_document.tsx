@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
     return (
         <Html lang="en">
-            <Head>
+            <head>
                 <title>What's in your Skincare?</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta name="description" content="Discover the ingredients in your skincare products and learn about their benefits and potential risks." />
@@ -18,10 +18,9 @@ export default function Document() {
                 <meta name="github:title" content="What's in your Skincare?" />
                 <meta name="github:description" content="Discover the ingredients in your skincare products and learn about their benefits and potential risks." />
                 <meta name="github:image" content="link to an image that represents your website or brand" />
-            </Head>
+            </head>
             <body>
                 <Main />
-                <NextScript />
             </body>
         </Html>
     )
