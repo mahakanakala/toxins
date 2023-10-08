@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Html5QrcodePlugin} from 'html5-qrcode'; // Make sure to provide the correct path to Html5QrcodePlugin
+import {Html5QrcodeScanner} from 'html5-qrcode'; // Make sure to provide the correct path to Html5QrcodePlugin
 
 interface AppState {
   // Define state properties here if needed
@@ -17,7 +17,7 @@ class App extends Component<{}, AppState> {
     return (
       <div>
         <h1>Html5Qrcode React example!</h1>
-        <Html5QrcodePlugin
+        <Html5QrcodeScanner
           fps={10}
           qrbox={250}
           disableFlip={false}
