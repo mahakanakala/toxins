@@ -2,6 +2,12 @@
 
 #### Project Status: [Development Status]
 
+![2023-10-23 20 08 47](https://github.com/mahakanakala/toxins-in-skincare/assets/96635744/69b962c3-53a6-4bbe-9ce9-9e884f671166)
+
+
+
+
+
 ---
 ## Project Intro/Objective
 Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine, a database of clean products, and dynamic/static visualizations. View the [website](https://toxins-web.vercel.app/about) under development.
