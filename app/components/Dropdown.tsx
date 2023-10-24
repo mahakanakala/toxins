@@ -9,11 +9,11 @@ interface QuestionAndAnswer {
 }
 
 const questionsAndAnswers: QuestionAndAnswer[] = [
-  // {
-  //   question: "How unique is this dataset?",
-  //   answer: "Z-score calcualtion of the label, brand, price, and rank have been calculated using KDE (A kernel density estimate) plot which is a method for visualizing the distribution of observations in a dataset, analogous to a histogram.",
-  //   image: "/images/z_score.png",
-  // },
+  {
+    question: "How unique is this dataset?",
+    answer: "Z-score calcualtion of the label, brand, price, and rank have been calculated using KDE (A kernel density estimate) plot which is a method for visualizing the distribution of observations in a dataset, analogous to a histogram.",
+    image: "/images/z_score.png",
+  },
   {
     question: "What brands have the most amount of toxins in their products?",
     answer: "Mostly American brands with minor ones from France and East Asia.",
