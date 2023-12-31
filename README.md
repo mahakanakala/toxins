@@ -10,13 +10,11 @@
 
 ---
 ## Project Intro/Objective
-Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & ML model of a recommendation machine, a database of clean products, and dynamic/static visualizations. View the [website](https://toxins-web.vercel.app/about) under development.
+Analysis of a [Skincare dataset](https://www.kaggle.com/code/kingabzpro/cosmetics-ingredients/data) from Kaggle & a recommendation machine, a database of clean products, and dynamic/static visualizations. View the [website](https://toxins-web.vercel.app/about) under development.
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
 * Data Visualization
-* Predictive Modeling
 * etc.
 
 ### Technologies 
